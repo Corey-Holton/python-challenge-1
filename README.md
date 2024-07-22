@@ -10,3 +10,9 @@ The Variety Food Truck Ordering System is an application that allows customers t
 
 # Language
 This is written in Python 3.10
+
+# References
+Support for this code came from: class activity examples, learning assistants, code within the start file, and a lot of trial and error.
+
+# Special thanks
+I would like to thank Noah, and Deborah who helped me with my understanding of how the code is working and the logic that goes into it.
